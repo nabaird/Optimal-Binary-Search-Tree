@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1473111605 source:c:\users\natty\desktop\c++ files\obst\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"OBST.h"
+
+1473111601 c:\users\natty\desktop\c++ files\obst\obst.h
+	<iostream>
+	<string>
+
+1473111563 source:c:\users\natty\desktop\c++ files\obst\obst.cpp
+	<iostream>
+	<string>
+	"OBST.h"
+
